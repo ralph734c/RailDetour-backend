@@ -11,3 +11,7 @@ This repo contains the backend of this project.
 - Express
 - Render
 - Supabase for PostgreSQL
+
+## Related Repositories
+
+- [Frontend Repository](https://github.com/ralph734c/RailDetour-frontend)
